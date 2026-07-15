@@ -1,11 +1,8 @@
 # Kosal Koeung
 
-**Fullstack Developer**
+**Senior Fullstack Developer**
 
-📍 Sangkat Boeng Tumpon, Phnom Penh, Cambodia
-📞 +855 86 271 812
-📧 koeungkosal@gmail.com
-🌐 [onlineprofile.vip/kosal.koeng](https://onlineprofile.vip/kosal.koeng)
+📍 Phnom Penh, Cambodia · 📞 +855 86 271 812 · 📧 koeungkosal@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kosal-koeung/)
 
 ---
 
@@ -17,7 +14,7 @@ Fullstack Developer with a proven track record of building backend systems and w
 
 ## Experience
 
-### Fullstack Developer — PhnomPixel (Outsource Team)
+### Senior Fullstack Developer — PhnomPixel (Outsource Team)
 
 **Aug 2025 – Present**
 
@@ -30,10 +27,10 @@ Independent outsource team delivering fullstack solutions across trading, e-comm
   **Tech:** NestJs, NuxtJs, PgSQL, Docker
 
 - **Keila App:** A cross-platform mobile payment application integrating ABA KHQR payment systems, with deep link handling for ABA Payway, QR code generation as a fallback payment flow, and native mobile status bar theming. Deployed on iOS and Android.
-  **Tech:** Capacitor.js, NuxtJs/Vue3, NestJs, ABA KHQR, ABA Payway
+  **Tech:** Capacitor.js, Reactjs, Supabase, ABA KHQR, ABA Payway
 
-- **Lottery:** A trading bot platform featuring automated strategy execution, real-time trade notifications, multi-language UI (including Chinese localization), and configurable bot parameters broadcast via notification channels.
-  **Tech:** NestJs, NuxtJs, PgSQL, WebSocket
+- **TexBook:** A free math learning app for Cambodian students from Grade 1 to Grade 12. Everything you need to study math — books, worksheets, video lessons, and practice quizzes — in one simple app on your phone. No account, no sign-up, and completely free.
+  **Tech:** Capacitor.js, Vue3
 
 ---
 
@@ -96,22 +93,22 @@ Worked on the Inventory project, building and maintaining a system designed to m
 
 ## Hard Skills
 
-| Skill                                   | Level                   |
-| --------------------------------------- | ----------------------- |
-| NestJs / NodeJs                         | █████████░ Advanced     |
-| NuxtJs / Vue2 / Vue3                    | ████████░░ Advanced     |
-| PgSQL / MySQL                           | ████████░░ Advanced     |
-| Laravel                                 | ███████░░░ Proficient   |
-| REST API Design & Architecture          | █████████░ Advanced     |
-| Multi-Tenant SaaS Architecture          | ████████░░ Advanced     |
-| Capacitor.js (iOS & Android)            | ██████░░░░ Intermediate |
-| Docker & Server Deployment              | ███████░░░ Proficient   |
-| WebSocket & Real-Time Systems           | ███████░░░ Proficient   |
-| Payment Integration (ABA KHQR / Payway) | ███████░░░ Proficient   |
-| Fintech & Trading Systems (CCXT, PNL)   | ██████░░░░ Intermediate |
+| Skill                                         | Level                   |
+| --------------------------------------------- | ----------------------- |
+| NestJs / NodeJs                               | █████████░ Advanced     |
+| NuxtJs / Vue2 / Vue3                          | ████████░░ Advanced     |
+| PgSQL / MySQL                                 | ████████░░ Advanced     |
+| Laravel                                       | ███████░░░ Proficient   |
+| REST API Design & Architecture                | █████████░ Advanced     |
+| Multi-Tenant SaaS Architecture                | ████████░░ Advanced     |
+| Capacitor.js (iOS & Android) and Store Deploy | ██████░░░░ Intermediate |
+| Docker & Server Deployment                    | ███████░░░ Proficient   |
+| WebSocket & Real-Time Systems                 | ███████░░░ Proficient   |
+| Payment Integration (ABA KHQR / Payway)       | ███████░░░ Proficient   |
+| Fintech & Trading Systems (CCXT, PNL)         | ██████░░░░ Intermediate |
 
 ---
 
 ## Other Technologies
 
-`AWS EC2` `DigitalOcean` `Git` `OAuth2` `CCXT` `TradingView Lightweight Charts` `WebSocket` `RBAC / ABAC` `Microservice` `C/C++` `Java`
+`AWS EC2` `DigitalOcean` `Git` `OAuth2` `CCXT` `TradingView Lightweight Charts` `WebSocket` `RBAC / ABAC` `Microservice` `Java`

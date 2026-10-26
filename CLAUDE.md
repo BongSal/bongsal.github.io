@@ -2,11 +2,17 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-@AGENTS.md
+## Overview
 
-## Notes beyond AGENTS.md
+- Personal CV site for Kosal Koeung, published as the GitHub Pages user site `BongSal/bongsal.github.io`.
+- The site is just `README.md` rendered by GitHub Pages (default Jekyll, Primer theme); there is nothing to build or test. Pushing to `main` deploys.
+- `_layouts/default.html` overrides the Primer layout only to drop the auto-generated site-title `<h1>` that would duplicate the name header. Keep it.
+- Don't add build tooling or dependencies without explicit approval.
+- The repo is public and the README holds personal contact info: never commit secrets, private notes, or drafts.
 
-- The site is just `README.md` rendered by GitHub Pages; there is nothing to build or test. Pushing to `main` deploys.
+## README conventions
+
+- Keep it in English, factual and professional. Preserve the About, Experience, Education, and Skills sections.
 - `README.md` starts with `<!-- markdownlint-disable MD013 MD026 MD033 MD041 -->` (long prose lines, "Co., Ltd." headings, centered header div). Keep it lint-clean: `npx -y markdownlint-cli2 README.md`.
 - Content conventions in `README.md` to keep when editing:
   - Each job is `### Role — Company` (em dash), followed by a date line (`📅 **Mon YYYY – Present**`, en dash; the emoji keeps markdownlint MD036 quiet), a short description, then project bullets starting with `**Project Name:**`.

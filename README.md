@@ -32,6 +32,9 @@ Independent outsource team delivering fullstack solutions across trading, e-comm
 - **TexBook:** A free math learning app for Cambodian students from Grade 1 to Grade 12. Everything you need to study math — books, worksheets, video lessons, and practice quizzes — in one simple app on your phone. No account, no sign-up, and completely free.
   **Tech:** Capacitor.js, Vue3
 
+- **TeamTalk:** A real-time team chat platform shipped as a web app, Android/iOS app, and desktop app from a single codebase. Features team messaging with threads and reactions, WebSocket real-time delivery fanned out through Redis pub/sub, voice and video calls over WebRTC (LiveKit) with adaptive call quality, voice notes with transcription and tap-to-translate, media sharing via presigned S3 URLs, and push notifications through FCM and APNs VoIP.
+  **Tech:** Rust (Axum, Tokio, SQLx), Vue3, TypeScript, Vite, Pinia, Tailwind CSS, Capacitor.js, Tauri, PgSQL, Redis, MinIO/S3, LiveKit (WebRTC), WebSocket, JWT, FCM, APNs, Sentry, Docker, Nginx
+
 ---
 
 ### Lead Web Developer — AIBodia
@@ -111,4 +114,4 @@ Worked on the Inventory project, building and maintaining a system designed to m
 
 ## Other Technologies
 
-`AWS EC2` `DigitalOcean` `Git` `OAuth2` `CCXT` `TradingView Lightweight Charts` `WebSocket` `RBAC / ABAC` `Microservice` `Java`
+`AWS EC2` `DigitalOcean` `Git` `OAuth2` `CCXT` `TradingView Lightweight Charts` `WebSocket` `RBAC / ABAC` `Microservice` `Java` `Rust (Axum)` `Redis` `Tauri` `LiveKit / WebRTC` `MinIO / S3` `FCM / APNs` `Sentry` `Nginx`

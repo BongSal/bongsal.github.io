@@ -42,7 +42,7 @@ bongsal.github.io/
   - `###` for individual job/project headings.
   - Tables for structured data such as education and skills.
   - Backticks for inline technology names.
-- Preserve the existing sections: About, Experience, Education, Hard Skills, and Other Technologies.
+- Preserve the existing sections: About, Experience, Education, and Skills.
 - Verify Markdown rendering (headings, tables, lists) after any edit.
 
 ## Testing

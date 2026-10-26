@@ -1,14 +1,22 @@
+<!-- markdownlint-disable MD013 MD026 MD033 MD041 -->
+
+<div align="center" markdown="1">
+
 # Kosal Koeung
 
-**Senior Fullstack Developer**
+**Senior Fullstack Developer** · 9+ years
 
-📍 Phnom Penh, Cambodia · 📞 +855 86 271 812 · 📧 koeungkosal@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kosal-koeung/)
+📍 Phnom Penh, Cambodia · 📞 +855 86 271 812 · 📧 [koeungkosal@gmail.com](mailto:koeungkosal@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/kosal-koeung/)
+
+`NestJS` `Nuxt` `PostgreSQL` `Rust` `Capacitor.js` `Docker`
+
+</div>
 
 ---
 
 ## About
 
-Fullstack Developer with a proven track record of building backend systems and web applications. I specialize in NestJs, NuxtJs, and PostgreSQL, and have delivered projects across fintech, e-commerce, mobile payments, and business management. Comfortable handling everything from API design and database architecture to frontend UI, mobile apps (Capacitor.js), and server deployment.
+Fullstack developer who builds backend systems, web apps, and cross-platform mobile apps end to end, from API design and database architecture to frontend UI, app-store releases, and server deployment. Specialized in NestJS, Nuxt, and PostgreSQL, with delivered projects across fintech, e-commerce, mobile payments, education, and business management.
 
 ---
 
@@ -16,72 +24,70 @@ Fullstack Developer with a proven track record of building backend systems and w
 
 ### Senior Fullstack Developer — PhnomPixel (Outsource Team)
 
-**Aug 2025 – Present**
+📅 **Aug 2025 – Present**
 
-Independent outsource team delivering fullstack solutions across trading, e-commerce, and mobile payment domains.
+Independent outsource team delivering fullstack products across trading, e-commerce, payments, education, and communication.
 
-- **Journal:** A cryptocurrency trading analysis platform with FIFO-based PNL calculation across coins (ETH, SOL, BNB), multi-exchange data aggregation via CCXT (Binance, DigiFinex), financial data API endpoints, and candlestick chart rendering with TradingView Lightweight Charts.
-  **Tech:** NestJs, NuxtJs, PgSQL, CCXT, TradingView Lightweight Charts
+- **TeamTalk:** Built a real-time team chat platform shipped as web, Android/iOS, and desktop apps from a single codebase. Threads and reactions, WebSocket delivery fanned out through Redis pub/sub, WebRTC voice/video calls with adaptive quality, voice notes with transcription and tap-to-translate, presigned S3 media sharing, and push notifications via FCM and APNs VoIP.
+  **Tech:** `Rust (Axum, Tokio, SQLx)` `Vue3` `TypeScript` `Tauri` `Capacitor.js` `PostgreSQL` `Redis` `LiveKit` `MinIO / S3` `Docker`
 
-- **Kambotix:** A multi-tenant e-commerce and order management platform supporting multiple merchant storefronts from a single backend, with product catalog management, order processing workflows, and RBAC/ABAC access control architecture.
-  **Tech:** NestJs, NuxtJs, PgSQL, Docker
+- **Journal:** Built a cryptocurrency trading analysis platform with FIFO-based PNL calculation across coins (ETH, SOL, BNB), multi-exchange data aggregation via CCXT (Binance, DigiFinex), financial data APIs, and candlestick charts.
+  **Tech:** `NestJS` `Nuxt` `PostgreSQL` `CCXT` `TradingView Lightweight Charts`
 
-- **Keila App:** A cross-platform mobile payment application integrating ABA KHQR payment systems, with deep link handling for ABA Payway, QR code generation as a fallback payment flow, and native mobile status bar theming. Deployed on iOS and Android.
-  **Tech:** Capacitor.js, Reactjs, Supabase, ABA KHQR, ABA Payway
+- **Kambotix:** Designed a multi-tenant e-commerce and order management platform serving multiple merchant storefronts from a single backend, with product catalog management, order processing workflows, and RBAC/ABAC access control.
+  **Tech:** `NestJS` `Nuxt` `PostgreSQL` `Docker`
 
-- **TexBook:** A free math learning app for Cambodian students from Grade 1 to Grade 12. Everything you need to study math — books, worksheets, video lessons, and practice quizzes — in one simple app on your phone. No account, no sign-up, and completely free.
-  **Tech:** Capacitor.js, Vue3
+- **Keila App:** Built a cross-platform mobile payment app integrating ABA KHQR, with ABA Payway deep-link handling, QR code generation as a fallback payment flow, and native status bar theming. Released on iOS and Android.
+  **Tech:** `Capacitor.js` `React` `Supabase` `ABA KHQR` `ABA Payway`
 
-- **TeamTalk:** A real-time team chat platform shipped as a web app, Android/iOS app, and desktop app from a single codebase. Features team messaging with threads and reactions, WebSocket real-time delivery fanned out through Redis pub/sub, voice and video calls over WebRTC (LiveKit) with adaptive call quality, voice notes with transcription and tap-to-translate, media sharing via presigned S3 URLs, and push notifications through FCM and APNs VoIP.
-  **Tech:** Rust (Axum, Tokio, SQLx), Vue3, TypeScript, Vite, Pinia, Tailwind CSS, Capacitor.js, Tauri, PgSQL, Redis, MinIO/S3, LiveKit (WebRTC), WebSocket, JWT, FCM, APNs, Sentry, Docker, Nginx
+- **TexBook:** Built a free math learning app for Cambodian students from Grade 1 to Grade 12, bundling books, worksheets, video lessons, and practice quizzes, with no account or sign-up required.
+  **Tech:** `Capacitor.js` `Vue3`
 
 ---
 
 ### Lead Web Developer — AIBodia
 
-**Jul 2025 – Sep 2025 (3 months)**
+📅 **Jul 2025 – Sep 2025 (3 months)**
 
-Collaborated with AIBodia on a short-term engagement to design and deliver a comprehensive pawn shop management system.
+Short-term engagement to design and deliver a pawn shop management system.
 
-- **PDR (Pawn Shop Management System):** A full-featured pawn shop business system covering item appraisal and pawning workflows, customer loan management, repayment tracking, interest calculation, item redemption and forfeiture handling, inventory of pawned goods, and multi-branch reporting. Goes beyond a simple pawn shop to function as an end-to-end operational platform for pawn businesses.
-  **Tech:** NestJs, NuxtJs, PgSQL, Docker
+- **PDR (Pawn Shop Management System):** Delivered an end-to-end operational platform for pawn businesses covering item appraisal and pawning, customer loans, repayment tracking, interest calculation, redemption and forfeiture, pawned-goods inventory, and multi-branch reporting.
+  **Tech:** `NestJS` `Nuxt` `PostgreSQL` `Docker`
 
 ---
 
 ### Lead Web Developer — Beniten Co., Ltd.
 
-**2022 – Jun 2025**
+📅 **2022 – Jun 2025**
 
-Led backend development efforts for multiple high-impact projects, including:
+Led backend development across multiple projects and managed server operations.
 
-- **Icon:** Integrated AI-based solutions into the platform to enhance user experiences, focusing on efficient server-side operations and AI model management.
-- **Wizardry:** Developed a comprehensive gaming mode editor, ensuring smooth and scalable backend functionalities, managing high traffic and optimizing performance for seamless user interactions.
-- **Logistic Solution:** Implemented and managed a complex logistic solution, focusing on inventory management, real-time tracking, and streamlining operations for greater efficiency.
+- **Icon:** Integrated AI-based solutions into the platform, focusing on efficient server-side operations and AI model management.
+- **Wizardry:** Developed a gaming mode editor with a scalable backend, optimized for high traffic and smooth user interactions.
+- **Logistic Solution:** Implemented a logistics system for inventory management and real-time tracking that streamlined operations.
 
-**Tech:** Laravel, NuxtJs (Vue2/Vue3), PgSql, MySql
-**Server:** DigitalOcean — managed and deployed server operations, ensuring security and scalability.
+**Stack:** `Laravel` `Nuxt (Vue2 / Vue3)` `PostgreSQL` `MySQL` `DigitalOcean`
 
 ---
 
 ### Senior Web Developer — BRONX Technology Co., Ltd.
 
-**2018 – 2022**
+📅 **2018 – 2022**
 
-Played a key role as a Senior Web Developer, contributing to two major projects:
+Senior developer on two major products.
 
-- **HRMS (Human Resource Management System):** Developed and maintained a comprehensive HR management platform that streamlined employee management, payroll, and reporting for enterprises.
-- **Chat Application:** Built a high-performance API for a real-time chat application, enabling efficient communication between users with features like group chats, message history, and notifications.
+- **HRMS (Human Resource Management System):** Developed and maintained an HR platform that streamlined employee management, payroll, and reporting for enterprises.
+- **Chat Application:** Built a high-performance API for real-time chat with group chats, message history, and notifications.
 
-**Tech:** Laravel, NodeJs, NestJs, PgSql, MySql
-**Server:** AWS EC2, Shared Hosting
+**Stack:** `Laravel` `Node.js` `NestJS` `PostgreSQL` `MySQL` `AWS EC2`
 
 ---
 
 ### Web Developer — ABI Technology Co., Ltd.
 
-**2017 – 2018**
+📅 **2017 – 2018**
 
-Worked on the Inventory project, building and maintaining a system designed to manage stock levels, track orders, and optimize inventory processes for businesses.
+- **Inventory System:** Built and maintained a system for managing stock levels, tracking orders, and optimizing inventory processes for businesses.
 
 ---
 
@@ -94,24 +100,15 @@ Worked on the Inventory project, building and maintaining a system designed to m
 
 ---
 
-## Hard Skills
+## Skills
 
-| Skill                                         | Level                   |
-| --------------------------------------------- | ----------------------- |
-| NestJs / NodeJs                               | █████████░ Advanced     |
-| NuxtJs / Vue2 / Vue3                          | ████████░░ Advanced     |
-| PgSQL / MySQL                                 | ████████░░ Advanced     |
-| Laravel                                       | ███████░░░ Proficient   |
-| REST API Design & Architecture                | █████████░ Advanced     |
-| Multi-Tenant SaaS Architecture                | ████████░░ Advanced     |
-| Capacitor.js (iOS & Android) and Store Deploy | ██████░░░░ Intermediate |
-| Docker & Server Deployment                    | ███████░░░ Proficient   |
-| WebSocket & Real-Time Systems                 | ███████░░░ Proficient   |
-| Payment Integration (ABA KHQR / Payway)       | ███████░░░ Proficient   |
-| Fintech & Trading Systems (CCXT, PNL)         | ██████░░░░ Intermediate |
-
----
-
-## Other Technologies
-
-`AWS EC2` `DigitalOcean` `Git` `OAuth2` `CCXT` `TradingView Lightweight Charts` `WebSocket` `RBAC / ABAC` `Microservice` `Java` `Rust (Axum)` `Redis` `Tauri` `LiveKit / WebRTC` `MinIO / S3` `FCM / APNs` `Sentry` `Nginx`
+| Area               | Technologies                                                                  |
+| ------------------ | ----------------------------------------------------------------------------- |
+| Backend            | `NestJS` `Node.js` `Rust (Axum, Tokio)` `Laravel` `REST API Design`           |
+| Frontend           | `Nuxt` `Vue2 / Vue3` `React` `TypeScript` `Pinia` `Tailwind CSS` `Vite`       |
+| Mobile & Desktop   | `Capacitor.js (iOS & Android, store releases)` `Tauri`                        |
+| Database & Storage | `PostgreSQL` `MySQL` `MongoDB` `Redis` `Supabase` `MinIO / S3`                |
+| DevOps & Cloud     | `Docker` `Nginx` `AWS EC2` `DigitalOcean` `Sentry`                            |
+| Real-Time & Media  | `WebSocket` `Redis Pub/Sub` `LiveKit / WebRTC` `FCM / APNs`                   |
+| Architecture       | `Multi-Tenant SaaS` `RBAC / ABAC` `Microservices` `JWT / OAuth2`              |
+| Domains            | `Payments (ABA KHQR / Payway)` `Fintech & Trading (CCXT, PNL)` `E-commerce`   |
